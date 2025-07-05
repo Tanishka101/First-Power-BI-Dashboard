@@ -1,1 +1,2 @@
+### First-Power-BI-Dashboard
 I’m thrilled to share my very first Power BI dashboard! What an exhilarating journey it has been! From playfully rearranging visuals like a kid with stickers to diving into the enigmatic world of DAX, every moment has been a blast. There’s so much more to uncover, but I’m already captivated by the magic of transforming raw data into stunning, meaningful insights! Here’s to a future filled with colorful charts, dynamic filters, and endless discoveries! Cheers!
